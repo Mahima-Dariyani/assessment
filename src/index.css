@@ -1,0 +1,21 @@
+/* img{
+  width:100%
+} */
+.card{
+  float: left;
+  margin-top:35px;
+  margin-left: 1.2%;
+  border:white;
+  margin-bottom: 20px;
+  border-radius: 0px;
+
+}
+.card-img-top{
+  height:250px;
+  width:300px;
+  margin: auto;
+}
+.card-title{
+  font-size: 17px;
+  text-align: center;
+}
