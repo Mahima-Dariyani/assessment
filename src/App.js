@@ -24,7 +24,7 @@ const App = () => {
       document.documentElement.scrollHeight
     ) {
       setSkip((prev) => prev + 12);
-      setLimit((prev) => prev + 5);
+      setLimit(5);
     }
   };
   useEffect(() => {
